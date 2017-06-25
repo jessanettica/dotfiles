@@ -1,0 +1,16 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontSize: 13
+    showIndentGuide: true
+    tabType: "auto"
+  "linter-eslint": {}
+  "linter-ui-default":
+    showPanel: true
+  "prettier-atom":
+    formatOnSaveOptions:
+      enabled: true
+  "sync-settings": {}
+  welcome:
+    showOnStartup: false

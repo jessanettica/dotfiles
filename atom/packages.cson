@@ -1,0 +1,12 @@
+packages: [
+  "busy-signal"
+  "editorconfig"
+  "elm-format"
+  "intentions"
+  "language-elm"
+  "linter"
+  "linter-eslint"
+  "linter-ui-default"
+  "package-sync"
+  "prettier-atom"
+]
